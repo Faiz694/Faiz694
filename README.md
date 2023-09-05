@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-faiz-reza-7361a423b" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" alt="mohd-faiz-reza-7361a423b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-faiz-reza-7361a423b" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" alt="mohd-faiz-reza-7361a423b" height="50" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
