@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mohd Faiz Reza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width="400" height="300"  src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=826&t=st=1691825326~exp=1691825926~hmac=a12a3d0a4beae9892f05f81b4eba4301c2db24a738d0850f0d7b6a8be6461c2b">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz694&label=Profile%20views&color=0e75b6&style=flat" alt="faiz694" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **front-end**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mohdfaiz694reza@gmail.com**
 
