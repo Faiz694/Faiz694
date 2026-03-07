@@ -1,141 +1,203 @@
-<!-- HERO -->
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="site_design_12.jpg" alt="AI Systems Banner" />
+  <img src="site_design_12.jpg" width="100%" alt="AI SaaS Banner"/>
 </p>
 
-<h1 align="center" >Mohd Faiz Reza</h1>
-<h3 align="center">Full-Stack + AI Systems Engineer</h3>
+<h1 align="center">Mohd Faiz Reza</h1>
+<h3 align="center">Full-Stack Developer • MERN Stack • AI SaaS Builder</h3>
+
 <p align="center">
-  Building production-grade AI SaaS platforms and autonomous agent systems at scale.
+  Building scalable web applications, AI-powered SaaS tools, and production-ready backend systems.
 </p>
 
 ---
 
-## Professional Summary
+# Professional Summary
 
-- Architected and shipped AI-first SaaS products with end-to-end ownership, from system design to revenue-impacting deployment.
-- Designed autonomous AI agent systems using LLM orchestration, tool calling, long-term memory, and evaluation pipelines.
-- Built distributed backend systems handling high-throughput workloads with strict latency and reliability requirements.
-- Led cloud-native deployments with automated CI/CD, observability, and cost-optimized infrastructure.
-- Delivered monetizable AI features used by thousands of users across B2B and B2C products.
+Full-stack developer specializing in **MERN stack architecture and AI API integration**.  
+Experience building **subscription-based SaaS platforms**, REST APIs, and scalable backend services.
 
----
+Focused on:
 
-## Core Capabilities
-
-**AI Agents & LLM Systems**
-- Multi-agent orchestration, tool execution, memory management, RAG pipelines, model evaluation
-
-**Full-Stack Engineering**
-- SPA frameworks, server-rendered apps, design systems, performance-focused UI delivery
-
-**Backend & APIs**
-- Distributed services, REST/GraphQL APIs, async processing, event-driven architectures
-
-**Cloud & DevOps**
-- Cloud-native infrastructure, container orchestration, CI/CD automation, infra-as-code
-
-**Data & MLOps**
-- Vector search, feature pipelines, model versioning, inference optimization
-
-**Security & Performance**
-- AuthN/AuthZ, secrets management, rate limiting, load testing, cost control
+• AI-powered SaaS products  
+• Secure backend architecture  
+• Full-stack product development  
+• Database design and API systems  
 
 ---
 
-## Technology Stack
+# Core Capabilities
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/>
-</p>
+### Full-Stack Web Development
+React based SPA applications, REST APIs, server side rendering, responsive UI.
 
-### Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/>
-</p>
+### Backend Engineering
+Node.js microservices, Express architecture, MVC pattern, authentication systems.
 
-### AI / LLM Tools
-<p>
-  OpenAI, Anthropic, Gemini, Hugging Face, LangChain, LlamaIndex, vLLM
-</p>
+### AI SaaS Development
+AI API integration, content generation tools, SaaS subscription models.
 
-### Databases
-<p>
-  PostgreSQL, MySQL, Redis, MongoDB, Pinecone, Weaviate
-</p>
+### Database Systems
+Relational and NoSQL schema design, optimized queries, scalable storage.
 
-### Cloud & Infra
-<p>
-  AWS, GCP, Docker, Kubernetes, Terraform, Cloudflare
-</p>
-
-### DevOps & Observability
-<p>
-  GitHub Actions, ArgoCD, Prometheus, Grafana, OpenTelemetry, Sentry
-</p>
-
-### Agent / Automation Tools
-<p>
-  LangGraph, AutoGen, CrewAI, Temporal, Airflow
-</p>
-
-**Total Tools Mastered: 38+**
+### Security & Authentication
+JWT authentication, RBAC authorization, Clerk authentication systems.
 
 ---
 
-## AI SaaS & Agent Architecture
+# Technology Stack
 
-- Event-driven, cloud-native architecture with stateless services and async workers.
-- LLM orchestration layer supporting multi-agent collaboration and tool execution.
-- Vector databases powering retrieval-augmented generation with structured and unstructured data.
-- Persistent memory layers for agent context, user state, and long-running tasks.
-- Automated evaluation pipelines for prompt quality, latency, and cost regression.
+## Languages
 
----
+<p align="center">
 
-## Selected Projects
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 
-### Autonomous Sales Intelligence Platform
-- AI agents that research leads, generate outreach, and sync with CRM systems.
-- **Tech:** Next.js, FastAPI, OpenAI, Pinecone, PostgreSQL, AWS
-- **Impact:** 5k+ active users, reduced sales research time by ~60%.
-
-### AI Customer Support SaaS
-- Multi-agent system handling ticket triage, resolution drafting, and escalation.
-- **Tech:** React, Node.js, LangChain, Redis, GCP
-- **Impact:** Processed 1M+ conversations with sub-second response latency.
-
-### Developer-Focused AI Copilot
-- Context-aware coding assistant with repo-level memory and tool access.
-- **Tech:** TypeScript, Python, LlamaIndex, Docker, Kubernetes
-- **Impact:** Adopted by internal teams; improved delivery velocity by ~30%.
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&hide_title=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]" />
 </p>
 
 ---
 
-## Contact & Professional Links
+## Frontend
 
-- Email: [EMAIL]
-- LinkedIn: [LINK]
-- Portfolio: [LINK]
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+
+</p>
+
+Technologies  
+• REST API Development  
+• MVC Architecture  
+• Joi Validation  
+• Swagger Documentation  
+• Morgan Logging  
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+
+</p>
+
+Tools  
+• Mongoose ODM  
+• Neon Serverless PostgreSQL  
+
+---
+
+## DevOps & Tools
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
+
+</p>
+
+---
+
+# Key Projects
+
+## Multi-Tenant AI Tooling Platform
+
+Full-stack SaaS application providing AI powered tools including text generation, image processing, and resume analysis.
+
+**Key Features**
+
+• Multi-tenant architecture  
+• Subscription based feature control  
+• Secure authentication & billing  
+• AI powered content tools  
+• Community content discovery  
+
+**Tech Stack**
+
+React • Vite • Tailwind • Node.js • Express • PostgreSQL • Clerk Auth • AI APIs
+
+---
+
+## School Management System
+
+Backend heavy system managing departments, teachers, and students with role-based authentication.
+
+**Features**
+
+• Authentication system  
+• Department & student management  
+• API documentation using Swagger  
+• Input validation using Joi  
+
+**Tech**
+
+Node.js • Express • SQLite • Bootstrap • EJS
+
+---
+
+## Quizify – Quiz Management Platform
+
+Modern assessment platform supporting teachers and students.
+
+**Features**
+
+• Secure login system  
+• Teacher-student role separation  
+• Quiz creation and evaluation  
+• Real-time results tracking  
+
+**Tech**
+
+MongoDB • Express • React • Node.js • JWT
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Faiz694&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
+
+Email  
+mdfaizraza502@gmail.com
+
+LinkedIn  
+https://www.linkedin.com/in/mohd-faiz-reza-7361a423b
+
+GitHub  
+https://github.com/Faiz694
+
+---
