@@ -85,7 +85,9 @@ JWT authentication, RBAC authorization, Clerk authentication systems.
 
 </p>
 
-Technologies  
+---
+
+## Technologies  
 • REST API Development  
 • MVC Architecture  
 • Joi Validation  
