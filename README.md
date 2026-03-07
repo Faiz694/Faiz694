@@ -1,9 +1,9 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://placehold.co/1600x400?text=AI+Systems+Engineer+%7C+SaaS+%7C+Agents" alt="AI Systems Banner" />
+  <img src="site_design_12.jpg" alt="AI Systems Banner" />
 </p>
 
-<h1 align="center">[YOUR NAME]</h1>
+<h1 align="center" >Mohd Faiz Reza</h1>
 <h3 align="center">Full-Stack + AI Systems Engineer</h3>
 <p align="center">
   Building production-grade AI SaaS platforms and autonomous agent systems at scale.
