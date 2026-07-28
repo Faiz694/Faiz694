@@ -129,6 +129,26 @@ Tools
 
 # Key Projects
 
+## TaskMate
+
+Full-stack academic project collaboration platform engineered for student teams to centralize task distribution, live messaging, and milestone tracking.
+
+**Features**
+
+• Workspace Management: Secure team initialization with dynamic, invite-only workspace join codes.
+
+• Asynchronous Message Streams: Real-time team messaging pipelines running over stateful WebSocket channels.
+
+• Granular Workflow Pipelines: Relational data schemas managing interactive task cards with instant state tracking.
+
+• Persistent Activity Feeds: Timestamped action loggers tracking state modifications across collaborative workspaces.
+
+**Tech**
+
+Next.js 14 • FastAPI • PostgreSQL • Socket.io • SQLAlchemy • Tailwind CSS
+
+---
+
 ## Multi-Tenant AI Tooling Platform
 
 Full-stack SaaS application providing AI powered tools including text generation, image processing, and resume analysis.
@@ -144,23 +164,6 @@ Full-stack SaaS application providing AI powered tools including text generation
 **Tech Stack**
 
 React • Vite • Tailwind • Node.js • Express • PostgreSQL • Clerk Auth • AI APIs
-
----
-
-## School Management System
-
-Backend heavy system managing departments, teachers, and students with role-based authentication.
-
-**Features**
-
-• Authentication system  
-• Department & student management  
-• API documentation using Swagger  
-• Input validation using Joi  
-
-**Tech**
-
-Node.js • Express • SQLite • Bootstrap • EJS
 
 ---
 
